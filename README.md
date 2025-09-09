@@ -1,30 +1,30 @@
 
 ### 🎨 Design
 ### 👀 Look'n Feel (Underdevelopment)
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/woocom_banner1.png">
+<!-- <img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/woocom_banner1.jpg"> -->
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/1.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/2.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/3.png">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/1.jpg"><img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/2.jpg">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/3.jpg">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/4.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/5.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/6.png">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/4.jpg"><img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/5.jpg">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/6.jpg">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/7.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/8.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/9.png">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/7.jpg"><img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/8.jpg">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/9.jpg">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/10.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/11.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/12.png">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/10.jpg"><img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/11.jpg">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/12.jpg">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/13.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/14.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/15.png">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/13.jpg"><img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/14.jpg">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/15.jpg">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/16.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/17.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/18.png">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/16.jpg"><img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/17.jpg">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/18.jpg">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/19.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/20.png">
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/21.png">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/19.jpg"><img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/20.jpg">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/21.jpg">
 
-<img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/22.png"><img src="https://github.com/parthunagar/woocom/blob/main/assets/images/screenshot/23.png">
+<img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/22.jpg"><img src="https://github.com/parthunagar/Steppi/blob/main/assets/screen/23.jpg">
 
 
 
